@@ -140,6 +140,4 @@ $(() => {
   const cmd = document.getElementById('terminal')
   const terminal = new Shell(cmd, commands)
 
-  $.ajaxSetup({ cache: false })
-  $.get('./data/systemdata.json', (data) => {systemData = data})
 })
