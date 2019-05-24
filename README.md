@@ -1,6 +1,6 @@
 # Xacrolyte.github.io
 
-[Site](xacrolyte.io)
+[xacrolyte.io](xacrolyte.io)
 
 My personal website. Will soon upload a demo to make it more user friendly.
 
