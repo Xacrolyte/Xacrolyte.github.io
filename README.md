@@ -1,6 +1,6 @@
 # Xacrolyte.github.io
 
-[xacrolyte.ml](xacrolyte.ml)
+[xacrolyte.ml](xacrolyte.github.io)
 
 My personal website. Will soon upload a demo to make it more user friendly.
 
